@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    text-decoration: none;
+    text-decoration-line: underline;
+    color: black;
+}
+.container{
+    background-color: palevioletred;
+    padding: 50px;
+    margin: 10px 40px 30px 40px;
+    border: solid lightgreen 3px;
+}
+body{
+    background-color:#EAF6F6;
+    width: 100%;
+}
+button{
+     width: 100%;
+    padding: 12px 20px;
+    margin:8px 0;
+    border:  3px;
+    display: inline-block;
+    box-sizing: border-box;
+
+}
+.textbox{
+    width: 100%;
+    margin: 8px 0;
+    padding: 12px 20px;
+    display: inline-block;
+    box-sizing: border-box;
+    border: 3px;
+}
